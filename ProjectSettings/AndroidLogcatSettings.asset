@@ -1,0 +1,149 @@
+{
+    "m_SelectedDeviceId": "181844V01505256",
+    "m_SelectedPackage": {
+        "deviceId": "181844V01505256",
+        "name": "com.DefaultCompany.MemOryBAlance",
+        "processId": 22120,
+        "exited": true
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 5246,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 5801,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 6999,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 8466,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 15865,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.teslacoilsw.launcher",
+            "processId": 2996,
+            "exited": false
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 18267,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 21113,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 27576,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 1932,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 4585,
+            "exited": true
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 17710,
+            "exited": false
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 21219,
+            "exited": false
+        },
+        {
+            "deviceId": "181844V01505256",
+            "name": "com.DefaultCompany.MemOryBAlance",
+            "processId": 22120,
+            "exited": true
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

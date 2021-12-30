@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Skill 1
+  - Skill 2
+  - Enemy
+  - Ground
+  - Player Tower
+  - Enemy Tower
+  - Player Tower Projectile
+  - Enemy Tower Projectile
+  - Skill 1 Cooldown
+  - Skill 2 Cooldown
+  - Skillshot Canvas
+  - Circle Canvas
+  - Skillshot
+  - Circle
+  - Radius
+  - Exp Text
+  - Exp Bar
+  - HealthRight3d
+  - HealthLeft3d
+  - HealthRight2d
+  - HealthLeft2d
+  - Skill 2 Anim
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Skill
+  - Enemy
+  - Ground
+  - Player Detector
+  - Projectile
+  - Tower
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
